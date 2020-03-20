@@ -1,0 +1,37 @@
+{
+    "streams": {
+        "general": {
+            "id": 228424,
+            "latest_id": 191252601,
+            "topic_data": {
+                "new streams": {
+                    "latest_date": 1584715923,
+                    "size": 1
+                },
+                "swimming turtles": {
+                    "latest_date": 1584715856,
+                    "size": 1
+                },
+                "topic demonstration": {
+                    "latest_date": 1584715856,
+                    "size": 2
+                }
+            }
+        },
+        "public1": {
+            "id": 228426,
+            "latest_id": 191252901,
+            "topic_data": {
+                "bla1": {
+                    "latest_date": 1584716074,
+                    "size": 1
+                },
+                "stream events": {
+                    "latest_date": 1584715923,
+                    "size": 1
+                }
+            }
+        }
+    },
+    "time": 1584722571.0272844
+}
