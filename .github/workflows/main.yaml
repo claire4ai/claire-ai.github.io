@@ -2,7 +2,7 @@ name: Act1
 
 on:
   schedule:
-   - cron: '*/5 * * * *'
+   - cron: '*/20 * * * *'
 
 jobs:
   publish_archive_job:
