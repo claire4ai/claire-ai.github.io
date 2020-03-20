@@ -20,10 +20,14 @@
         },
         "public1": {
             "id": 228426,
-            "latest_id": 191252901,
+            "latest_id": 191282446,
             "topic_data": {
                 "bla1": {
-                    "latest_date": 1584716074,
+                    "latest_date": 1584728404,
+                    "size": 2
+                },
+                "bla2": {
+                    "latest_date": 1584728424,
                     "size": 1
                 },
                 "stream events": {
@@ -33,5 +37,5 @@
             }
         }
     },
-    "time": 1584728053.5756419
+    "time": 1584728839.9633486
 }
